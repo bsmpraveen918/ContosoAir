@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/bsmpraveen/Parts%20Unlimited1/_apis/build/status/bsmpraveen918.ContosoAir?branchName=master)](https://dev.azure.com/bsmpraveen/Parts%20Unlimited1/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
